@@ -1,6 +1,6 @@
 boto3==1.16.30
 requests==2.23.0
-Flask==1.1.2
+Flask==2.2.5
 
 ./opentelemetry-python-core/opentelemetry-api
 ./opentelemetry-python-contrib/sdk-extension/opentelemetry-sdk-extension-aws
